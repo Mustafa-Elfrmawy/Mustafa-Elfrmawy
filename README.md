@@ -110,23 +110,3 @@ I’m **Mostafa El-faramawy**, a passionate **Backend Web Developer** based in E
 - **Online Courses & Workshops:**  
  💻 Fast typing skills  (yanfaa)
 📚 English Level: B1 (Intermediate – Level 4) (yanfaa)
-
----
-
-## 🌐 Get in Touch
-
-<p align="center">
-  <a href="https://github.com/mustafafermawy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/mustafafermawy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mustafa@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">_Feel free to clone, star, or fork any of my repositories. Let’s build something amazing together!_</p>
