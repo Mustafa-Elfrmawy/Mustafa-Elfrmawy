@@ -89,11 +89,10 @@ I’m **Mostafa El-faramawy**, a passionate **Backend Web Developer** based in E
 
 ## 📈 Education & Certifications
 
-- **Bachelor’s in Computer Science** – Ain Shams University (Ongoing)  
+🎓 Student at the Higher Institute of Commercial Sciences in El-Mahalla El-Kubra.
 - **Online Courses & Workshops:**  
-  - *Laravel Fundamentals* (Udemy)  
-  - *RESTful API Design* (Coursera)  
-  - *Modern PHP Security* (LinkedIn Learning)
+ 💻 Fast typing skills  (yanfaa)
+📚 English Level: B1 (Intermediate – Level 4) (yanfaa)
 
 ---
 
