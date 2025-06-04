@@ -52,13 +52,11 @@ I’m **Mustafa Fermawy**, a passionate **Backend Web Developer** based in Egypt
 ## 💼 Professional Experience
 
 ### Back-End Intern @ Creativo  
-*January 2024 – April 2024*  
-- Developed and maintained **Laravel**‐based web applications as part of an Agile team.  
+*february 2024 – April 2024*  
+- Developed and maintained **Laravel**.  
 - Designed and implemented RESTful API endpoints for user management, authentication, and data retrieval.  
 - Integrated **JWT** authentication to secure API routes and protect sensitive user data.  
-- Collaborated with Front-End developers to ensure smooth data flow and API consumption.  
-- Participated in daily stand-ups, code reviews, and sprint planning sessions.
-
+- Collaborated with Front-End developers to ensure smooth data flow and API consumption.
 ---
 
 ## 📋 Core Projects
