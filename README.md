@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Mustafa Fermawy – Backend Web Developer</h1>
+<h1 align="center">🚀 Mostafa El-faramawy – Backend Web Developer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I’m **Mustafa Fermawy**, a passionate **Backend Web Developer** based in Egypt 🇪🇬. My expertise lies in building scalable, secure, and maintainable server-side applications using **PHP** and **Laravel**. I continuously expand my skill set, and I have hands-on experience working with RESTful APIs, JWT authentication, and modern development workflows.
+I’m **Mostafa El-faramawy**, a passionate **Backend Web Developer** based in Egypt 🇪🇬. My expertise lies in building scalable, secure, and maintainable server-side applications using **PHP** and **Laravel**. I continuously expand my skill set, and I have hands-on experience working with RESTful APIs, JWT authentication, and modern development workflows.
 
 - 🎓 **Education & Training**  
   - Completed an internship at **Creativo**, where I contributed to real-world Laravel projects and collaborated in Agile teams.  
