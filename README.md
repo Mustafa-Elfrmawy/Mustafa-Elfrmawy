@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ElfrmawyMustafa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" height="40" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" />
   </a>
   <a href="mailto:mustafaelfrmawy@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
