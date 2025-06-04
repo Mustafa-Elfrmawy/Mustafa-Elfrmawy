@@ -4,13 +4,13 @@
   <a href="https://github.com/mustafafermawy" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/mustafafermawy" target="_blank">
+  <a href="https://www.linkedin.com/in/mustafa-elfrmawy/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
+  <a href="https://x.com/ElfrmawyMustafa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=x" height="40" alt="Twitter" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:mustafaelfrmawy@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
 </p>
