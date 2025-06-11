@@ -78,31 +78,48 @@ I’m **Mostafa El-faramawy**, a passionate **Backend Web Developer** based in E
 
 ## 📋 Core Projects
 
-#### 1. Laravel Content Management System (CMS)  
-- **Description:** A modular CMS built on Laravel 8 that enables administrators to manage posts, categories, and users through an intuitive dashboard.  
-- **Highlights:**  
-  - Role-based access control (RBAC) using middleware.  
-  - Image upload and manipulation with **Intervention Image**.  
-  - RESTful API support for headless content consumption.  
-- **Technologies:** Laravel, MySQL, JWT, Blade, Bootstrap.
+* **E-commerce Platform with Laravel**
+  A comprehensive e-commerce solution featuring:
 
-#### 2. Task Manager API  
-- **Description:** A lightweight task management API that allows users to create, update, and track tasks.  
-- **Highlights:**  
-  - Token-based authentication using JWT.  
-  - Pagination, filtering, and sorting of tasks.  
-  - Automated testing with PHPUnit.  
-- **Technologies:** Laravel, MySQL, PHPUnit, Postman.
+  * Category & subcategory management
+  * Role-based permissions
+  * Dedicated admin dashboard for products, orders, and users
+  * Coupon and discount system
+  * Inventory tracking
 
-#### 3. GitHub Repository Tracker  
-- **Description:** A CRUD application that leverages the GitHub API to monitor repositories, stars, and pull requests in real time.  
-- **Highlights:**  
-  - Implemented efficient data synchronization with GitHub’s REST API.  
-  - Stored repository data in a normalized MySQL schema.  
-  - Notifications via email when starred count or issues change.  
-- **Technologies:** PHP, Laravel, GitHub REST API, MySQL.
+* **Invoice and Inventory Management System**
+  A Laravel-based application to manage sales invoices, customer (trader) profiles, and stock across multiple branches with daily/monthly reporting.
+
+* **Laravel Personal Aljawharuh System V2**
+  A customized personal management system built on Laravel, featuring advanced category/subcategory organization, permission control, and a secure admin interface.
+
+* **Pharmacy Management System**
+  A robust Laravel solution for pharmacies to handle prescription records, medicine inventory, supplier management, and automated stock replenishment alerts.
+  
+------
+
+
+## 🧩 Training Projects
+This toolkit combines hands-on training exercises with real-world PHP utility development, emphasizing clean code, reusability, and core language mastery:
+
+- **DBHandler**  
+  A PDO-based database utility that abstracts raw SQL into simple, reusable methods (`select()`, `insert()`, `update()`, `delete()`) with comprehensive error handling and parameter binding.
+
+- **Curl**  
+  A PSR-compatible HTTP client wrapper supporting all verbs (GET, POST, PUT, PATCH, DELETE). Automatically formats headers, handles JSON/URL-encoded bodies, and ensures proper curl handle cleanup.
+
+- **GitHub API Manager**  
+  A PHP class for seamless GitHub REST API integration. Provides authenticated methods (`getData()`, `getRepository()`, `create()`, `update()`, `delete()`) to manage repos, issues, and more via a Personal Access Token.
+
+- **MyFunction Utility Class**  
+  Educational implementations of PHP built-ins (`count()`, `empty()`, array utilities, string case toggling) to illustrate underlying algorithms and improve understanding of native function behavior.
+
+*These components not only solve practical problems but also reflect a structured approach to learning object-oriented PHP, HTTP communication, and RESTful API design.*  
+
 
 ---
+
+
 
 ## 📈 Education & Certifications
 
