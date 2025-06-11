@@ -40,7 +40,8 @@ I’m **Mostafa El-faramawy**, a passionate **Backend Web Developer** based in E
 - 🎯 **Focus Areas**  
   - Robust API design (REST & JSON).  
   - Secure authentication with **JWT**.  
-  - Database architecture and query optimization (MySQL).  
+  - Implementing efficient data structures and algorithms for scalable applications.
+  - Database architecture and query optimization (MySQL).
   - Writing clean, well-documented code following SOLID principles.
 
 ---
