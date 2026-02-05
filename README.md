@@ -1,9 +1,6 @@
 <h1 align="center">🚀 Mostafa El-faramawy – Backend Web Developer</h1>
 
 <p align="center">
-  <a href="https://github.com/mustafafermawy" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/mustafa-elfrmawy/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
