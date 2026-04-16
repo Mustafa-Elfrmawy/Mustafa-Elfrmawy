@@ -7,7 +7,7 @@
   <a href="https://x.com/ElfrmawyMustafa" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" />
   </a>
-  <a href="mailto:mustafaelfrmawy@gmail.com" target="_blank">
+  <a href="mailto:eng.mostafa.elfaramawy@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
 </p>
