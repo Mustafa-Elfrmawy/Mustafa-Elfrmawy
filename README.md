@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Mostafa El-faramawy – Backend Web Developer</h1>
+<h1 align="center">🚀 Mostafa El-Faramawy – Backend Web Developer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mustafa-elfrmawy/" target="_blank">
@@ -28,7 +28,7 @@
 
 ## 👋 About Me
 
-I’m **Mostafa El-faramawy**, a passionate **Backend Web Developer** based in Egypt 🇪🇬. My expertise lies in building scalable, secure, and maintainable server-side applications using **PHP** and **Laravel**. I continuously expand my skill set, and I have hands-on experience working with RESTful APIs, JWT authentication, and modern development workflows.
+I’m **Mostafa El-faramawy**, a passionate **Software Developer** based in Egypt 🇪🇬. My expertise lies in building scalable, secure, and maintainable server-side applications using **PHP** and **Laravel**. I continuously expand my skill set, and I have hands-on experience working with RESTful APIs, JWT authentication, and modern development workflows.
 
 - 🎓 **Education & Training**  
   - Completed an internship at **Creativo**, where I contributed to real-world Laravel projects and collaborated in like teams.  
