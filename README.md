@@ -1,127 +1,221 @@
-<h1 align="center">🚀 Mostafa El-Faramawy – Backend Web Developer</h1>
+<h1 align="center">Hi, I'm Mostafa 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-elfrmawy/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  <strong>Software Engineer • Backend Developer</strong>
+</p>
+
+<p align="center">
+  I build backend systems that are fast, reliable, and actually useful.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafa-elfrmawy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/ElfrmawyMustafa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" />
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:eng.mostafa.elfaramawy@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  <a href="https://x.com/ElfrmawyMustafa">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:eng.mostafa.elfaramawy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
 
-<hr>
+## About Me
+
+I'm a Software Engineer from Egypt, mainly focused on backend development with **PHP and Laravel**.
+
+Most of my work revolves around building APIs, improving database performance, designing business workflows, and solving the kind of problems that appear when a system starts getting bigger.
+
+I enjoy working on things like:
+
+* Backend architecture and REST APIs
+* Database design and query optimization
+* Caching and performance improvements
+* Authentication and data security
+* Background processes and automation
+* Dockerized development and deployment
+* Integrating external systems and APIs
+
+I'm also comfortable stepping outside my main stack when the problem requires it.
+
+---
+
+## What I Work With
+
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Composer-000000?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,js,docker,linux,nginx,git,github,postman,composer" />
+
+</p>
+
+### Backend
+
+`PHP` `Laravel` `MySQL` `Redis` `REST API` `Blade`
+
+### Infrastructure
+
+`Docker` `Linux` `Nginx` `Apache` `CI/CD`
+
+### Engineering
+
+`SOLID` `Data Structures & Algorithms` `System Design` `ACID` `Caching` `Database Optimization`
+
+### Tools
+
+`Git` `GitHub` `Postman` `Composer` `DBeaver` `PhpMyAdmin` `VS Code` `PlatformIO`
+
+---
+
+## Things I've Built
+
+### 🎓 MyAcademy — Advanced LMS
+
+A multi-tenant learning management system designed to handle large amounts of student activity.
+
+Some of the backend work included:
+
+* Telegram Bot for real-time student notifications
+* Multi-tenant architecture supporting **10,000+ students per tenant**
+* Automatic PDF report generation
+* Daily and monthly automated backups
+* Fail-safe mechanisms for detecting and handling blocked integrations
+
+I also worked on reducing repetitive administrative work through automation.
+The reporting system alone saves **10+ hours every month**.
+
+---
+
+### 📍 IoT GPS Tracking System
+
+A backend system for receiving and processing real-time GPS data from multiple IoT devices.
+
+The interesting part wasn't just storing coordinates — it was making sure the system could reliably deal with concurrent incoming data.
+
+Built around:
+
+* Concurrent GPS data ingestion
+* Real-time coordinate processing
+* Route and trajectory history
+* High-frequency REST API endpoints
+* Automatic network recovery
+* JSON telemetry parsing
+* Remote hardware execution
+
+---
+
+### 📦 Warehouse Inventory System
+
+A specialized inventory system built for a sugar manufacturing environment.
+
+The system handles:
+
+* Daily stock reconciliation
+* Material movement tracking
+* Outbound quantity monitoring
+* High-volume inventory transactions
+* Database structures designed around accurate stock tracking
+
+The goal was simple: keep inventory numbers correct while dealing with a large amount of daily movement.
+
+---
+
+## Professional Experience
+
+### Software Engineer / Backend Developer
+
+I've worked across freelance and professional environments, building Laravel applications, APIs, integrations, and internal systems.
+
+#### Freelance — Full-Stack Developer
+
+`Mar 2025 – Present`
+
+* Built custom backend solutions around real business requirements.
+* Worked on performance bottlenecks and reduced query execution time.
+* Integrated the **Daftara Accounting API** into a B2B workflow.
+* Improved invoicing processes and reduced manual data-entry errors.
+* Managed development and deployment pipelines.
+* Used caching and clean Laravel architecture to keep systems reliable.
+
+#### e-RAMO for Digital Solutions — Junior Backend Developer
+
+`Jul 2026 – Aug 2026`
+
+* Developed backend features and REST APIs using Laravel.
+* Implemented business workflows and database transactions.
+* Worked on error handling and reliability.
+* Followed team-based Git workflows and clean-code practices.
+
+#### Createivo — Full-Stack Intern
+
+`Feb 2025 – May 2025`
+
+* Improved SQL queries and database indexing.
+* Worked on backend performance optimization.
+* Took part in **20+ deployments** using Git and Linux-based workflows.
+
+---
+
+## A Few Numbers
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/10K%2B-Students%20per%20Tenant-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/20%2B-Deployments-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/25%25-Response%20Time%20Improvement-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/99.9%25-System%20Uptime-18181B?style=for-the-badge" />
+
 </p>
 
 ---
 
-## 👋 About Me
+## Education
 
-I’m **Mostafa El-faramawy**, a passionate **Software Developer** based in Egypt 🇪🇬. My expertise lies in building scalable, secure, and maintainable server-side applications using **PHP** and **Laravel**. I continuously expand my skill set, and I have hands-on experience working with RESTful APIs, JWT authentication, and modern development workflows.
+🎓 **Bachelor's Degree in Business Information Systems (BIS)**
+Higher Institute for Commercial Sciences — El-Mahalla El-Kobra
+`2023 – Expected 2027`
 
-- 🎓 **Education & Training**  
-  - Completed an internship at **Creativo**, where I contributed to real-world Laravel projects and collaborated in like teams.  
-  - Studied JavaScript fundamentals to strengthen my full-stack perspective.
+My studies sit somewhere between software engineering and business, which is especially useful when building systems around inventory, finance, and business workflows.
 
-- 🎯 **Focus Areas**  
-  - Robust API design (REST & JSON).  
-  - Secure authentication with **JWT**.  
-  - Implementing efficient data structures and algorithms for scalable applications.
-  - Database architecture and query optimization (MySQL).
-  - Writing clean, well-documented code following SOLID principles.
+I also completed a **Full-Stack Web Development Diploma** focused on PHP, Laravel, and frontend fundamentals.
 
 ---
 
-## 🛠️ Technical Skills
+## Currently Interested In
 
-<table>
-  <tr align="center">
-    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /></td>
-    <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></td>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></td>
-    <td><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" /></td>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></td>
-    <td><img src="https://img.shields.io/badge/Composer-000000?style=flat-square&logo=composer&logoColor=white" alt="Composer" /></td>
-    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /></td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></td>
-  </tr>
-</table>
+```text
+Backend Architecture
+Database Performance
+Scalable APIs
+Distributed Systems
+Caching
+IoT Backends
+System Design
+DevOps & Deployment
+```
 
 ---
 
-## 💼 Professional Experience
+## Let's Connect
 
-### Back-End Intern @ Creativo  
-*february 2024 – April 2024*  
-- Developed and maintained **Laravel**.  
-- Designed and implemented RESTful API endpoints for user management, authentication, and data retrieval.  
-- Integrated **JWT** authentication to secure API routes and protect sensitive user data.  
-- Collaborated with Front-End developers to ensure smooth data flow and API consumption.
----
+<p align="center">
+  <i>Always interested in building useful systems, solving difficult backend problems, and learning something new along the way.</i>
+</p>
 
-## 📋 Core Projects
-
-* **E-commerce Platform with Laravel**
-  A comprehensive e-commerce solution featuring:
-
-  * Category & subcategory management
-  * Role-based permissions
-  * Dedicated admin dashboard for products, orders, and users
-  * Coupon and discount system
-  * Inventory tracking
-
-* **Invoice and Inventory Management System**
-  A Laravel-based application to manage sales invoices, customer (trader) profiles, and stock across multiple branches with daily/monthly reporting.
-
-* **Laravel Personal Aljawharuh System V2**
-  A customized personal management system built on Laravel, featuring advanced category/subcategory organization, permission control, and a secure admin interface.
-
-* **Pharmacy Management System**
-  A robust Laravel solution for pharmacies to handle prescription records, medicine inventory, supplier management, and automated stock replenishment alerts.
-  
-------
-
-
-## 🧩 Training Projects
-This toolkit combines hands-on training exercises with real-world PHP utility development, emphasizing clean code, reusability, and core language mastery:
-
-- **DBHandler**  
-  A PDO-based database utility that abstracts raw SQL into simple, reusable methods (`select()`, `insert()`, `update()`, `delete()`) with comprehensive error handling and parameter binding.
-
-- **Curl**  
-  A PSR-compatible HTTP client wrapper supporting all verbs (GET, POST, PUT, PATCH, DELETE). Automatically formats headers, handles JSON/URL-encoded bodies, and ensures proper curl handle cleanup.
-
-- **GitHub API Manager**  
-  A PHP class for seamless GitHub REST API integration. Provides authenticated methods (`getData()`, `getRepository()`, `create()`, `update()`, `delete()`) to manage repos, issues, and more via a Personal Access Token.
-
-- **MyFunction Utility Class**  
-  Educational implementations of PHP built-ins (`count()`, `empty()`, array utilities, string case toggling) to illustrate underlying algorithms and improve understanding of native function behavior.
-
-*These components not only solve practical problems but also reflect a structured approach to learning object-oriented PHP, HTTP communication, and RESTful API design.*  
-
-
----
-
-
-
-## 📈 Education & Certifications
-
-🎓 Student at the Higher Institute of Commercial Sciences in El-Mahalla El-Kubra.
-- **Online Courses & Workshops:**  
- 💻 Fast typing skills  (yanfaa).
-📚 English Level: B1 (Intermediate – Level 4) (yanfaa).
+<p align="center">
+  <a href="mailto:eng.mostafa.elfaramawy@gmail.com">
+    <strong>📩 Email</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mustafa-elfrmawy">
+    <strong>💼 LinkedIn</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <strong>💻 GitHub</strong>
+  </a>
+</p>
