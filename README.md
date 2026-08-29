@@ -9,17 +9,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-elfrmawy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mustafa-elfrmawy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://x.com/ElfrmawyMustafa">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  &nbsp;&nbsp;
+  <a href="https://x.com/ElfrmawyMustafa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
   </a>
-  <a href="mailto:eng.mostafa.elfaramawy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;
+  <a href="mailto:eng.mostafa.elfaramawy@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
