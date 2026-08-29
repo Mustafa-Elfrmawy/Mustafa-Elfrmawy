@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build backend systems that are fast, reliable, and actually useful.
+  Building backend systems that are fast, reliable, and actually useful.
 </p>
 
 <p align="center">
@@ -196,26 +196,3 @@ Caching
 IoT Backends
 System Design
 DevOps & Deployment
-```
-
----
-
-## Let's Connect
-
-<p align="center">
-  <i>Always interested in building useful systems, solving difficult backend problems, and learning something new along the way.</i>
-</p>
-
-<p align="center">
-  <a href="mailto:eng.mostafa.elfaramawy@gmail.com">
-    <strong>📩 Email</strong>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mustafa-elfrmawy">
-    <strong>💼 LinkedIn</strong>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <strong>💻 GitHub</strong>
-  </a>
-</p>
