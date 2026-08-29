@@ -5,21 +5,21 @@
 </p>
 
 <p align="center">
-  Building backend systems that are fast, reliable, and actually useful.
+  Engineering scalable, secure, and high-performance backend solutions.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mustafa-elfrmawy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/ElfrmawyMustafa">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:eng.mostafa.elfaramawy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -164,10 +164,10 @@ I've worked across freelance and professional environments, building Laravel app
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/10K%2B-Students%20per%20Tenant-18181B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/20%2B-Deployments-18181B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/25%25-Response%20Time%20Improvement-18181B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/99.9%25-System%20Uptime-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Students_per_Tenant-10K%2B-0284c7?style=flat-square" alt="10K+ Students" />
+<img src="https://img.shields.io/badge/Deployments-20%2B-16a34a?style=flat-square" alt="20+ Deployments" />
+<img src="https://img.shields.io/badge/Response_Time-25%25_Faster-ea580c?style=flat-square" alt="25% Faster Response" />
+<img src="https://img.shields.io/badge/System_Uptime-99.9%25-059669?style=flat-square" alt="99.9% Uptime" />
 
 </p>
 
