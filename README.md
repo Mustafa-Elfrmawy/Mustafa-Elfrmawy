@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/ElfrmawyMustafa" target="_blank">
+  <a href="https://x.com/Mo_Elfaramay" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
   </a>
   &nbsp;&nbsp;
@@ -50,11 +50,43 @@ I'm also comfortable stepping outside my main stack when the problem requires it
 
 ## What I Work With
 
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,js,docker,linux,nginx,git,github,postman,composer" />
-
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="Nginx" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Elfrmawy">
+    <img src="https://cdn.simpleicons.org/composer/885630" height="40" alt="Composer" />
+  </a>
 </p>
+
 
 ### Backend
 
