@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Engineering scalable, secure, and high-performance backend solutions.
+  Engineering scalable, secure, and high-performance backend solutions aligned with business requirements.
 </p>
 
 <p align="center">
@@ -17,10 +17,6 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/Mo_Elfaramay" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:eng.mostafa.elfaramawy@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
@@ -30,180 +26,97 @@
 
 ## About Me
 
-I'm a Software Engineer from Egypt, mainly focused on backend development with **PHP and Laravel**.
+I'm a Software Engineer from Egypt, focused on backend development with **PHP (Laravel), Go, and Python**.
 
-Most of my work revolves around building APIs, improving database performance, designing business workflows, and solving the kind of problems that appear when a system starts getting bigger.
+Most of my work revolves around building secure RESTful APIs, improving database performance, designing business workflows, and solving complex system architecture problems. I always aim to select the optimal technology stack to achieve peak performance, execution speed, and resource efficiency.
 
 I enjoy working on things like:
 
-* Backend architecture and REST APIs
-* Database design and query optimization
-* Caching and performance improvements
-* Authentication and data security
-* Background processes and automation
-* Dockerized development and deployment
-* Integrating external systems and APIs
-
-I'm also comfortable stepping outside my main stack when the problem requires it.
+- Backend architecture and REST APIs
+- Database design and query optimization
+- Caching and performance improvements (Redis)
+- Authentication and data security
+- Background processes, concurrency, and automation
+- Dockerized development and deployment
+- Desktop internal tools and offline scripts (Go/Wails, Python/PaddleOCR)
 
 ---
 
 ## What I Work With
 
+### Languages & Frameworks
+`PHP` `Laravel` `Go` `Python` `JavaScript` `Blade`
 
-<p align="center">
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="Nginx" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Elfrmawy">
-    <img src="https://cdn.simpleicons.org/composer/885630" height="40" alt="Composer" />
-  </a>
-</p>
+### Databases & Caching
+`MySQL` `Redis`
 
-
-### Backend
-
-`PHP` `Laravel` `MySQL` `Redis` `REST API` `Blade`
-
-### Infrastructure
-
+### Infrastructure & DevOps
 `Docker` `Linux` `Nginx` `Apache` `CI/CD`
 
-### Engineering
-
-`SOLID` `Data Structures & Algorithms` `System Design` `ACID` `Caching` `Database Optimization`
+### Engineering & Concepts
+`SOLID` `Data Structures & Algorithms` `System Design` `ACID` `WebSockets` `Laravel Reverb` `FCM`
 
 ### Tools
+`Git` `GitHub` `Postman` `Composer` `DBeaver` `VS Code`
 
-`Git` `GitHub` `Postman` `Composer` `DBeaver` `PhpMyAdmin` `VS Code` `PlatformIO`
+---
+
+## Professional Experience
+
+### Data Management Specialist
+**General Administration of Civil Protection - East Sector** | *Present*
+- Manage and maintain digital records and data workflows for the Prevention Department.
+- Built internal desktop tools in **Go (Wails)** to streamline scanner and document workflows, facilitating organized file sorting, fast error detection, and strict data isolation.
+
+### Junior Backend Developer
+**e-RAMO For Digital Solutions** | *Jul 2026 – Aug 2026*
+- Built core backend features and robust APIs using Laravel for Employer Magazine, an enterprise recruitment platform.
+- Implemented secure user workflows, reliable database transactions, and effective error-handling mechanisms.
+
+### Freelance Full-Stack Developer
+*Mar 2025 – Jul 2026*
+- Developed custom backend solutions resolving performance bottlenecks, significantly accelerating system speed and reducing query times.
+- Implemented B2B integration with Daftara Accounting API, streamlining invoicing and decreasing manual data entry errors by 40%.
+- Managed development pipelines, implementing caching strategies and clean Laravel architecture to ensure 99.9% system uptime.
+
+### Full-Stack Intern
+**Createivo** | *Feb 2025 – May 2025*
+- Optimized SQL queries and database indexing, resulting in a 25% improvement in overall system response time.
+- Managed 20+ deployments using Git & Linux pipelines, reducing deployment downtime by 15%.
 
 ---
 
 ## Things I've Built
 
 ### 🎓 MyAcademy — Advanced LMS
-
 A multi-tenant learning management system designed to handle large amounts of student activity.
+- Architected real-time event infrastructure using **Laravel Reverb and WebSockets**, integrating FCM for instant notifications and a Telegram Bot.
+- Scaled multi-tenant architecture serving **10,000+ students per tenant** with a fail-safe block detection mechanism.
+- Automated monthly performance reporting via PDF generation, saving administration 10+ hours monthly.
 
-Some of the backend work included:
-
-* Telegram Bot for real-time student notifications
-* Multi-tenant architecture supporting **10,000+ students per tenant**
-* Automatic PDF report generation
-* Daily and monthly automated backups
-* Fail-safe mechanisms for detecting and handling blocked integrations
-
-I also worked on reducing repetitive administrative work through automation.
-The reporting system alone saves **10+ hours every month**.
-
----
-
-### 📍 IoT GPS Tracking System
-
+### 📍 IoT GPS Tracking System & Rased Engine
 A backend system for receiving and processing real-time GPS data from multiple IoT devices.
-
-The interesting part wasn't just storing coordinates — it was making sure the system could reliably deal with concurrent incoming data.
-
-Built around:
-
-* Concurrent GPS data ingestion
-* Real-time coordinate processing
-* Route and trajectory history
-* High-frequency REST API endpoints
-* Automatic network recovery
-* JSON telemetry parsing
-* Remote hardware execution
-
----
+- Engineered **rased-engine**, a dedicated Go backend service designed to process device location payloads and push normalized JSON data into Redis list queues for Laravel queue workers.
+- Developed concurrent data ingestion system to synchronously process and store real-time GPS coordinates without data loss.
+- Built high-frequency REST API endpoints, handling automated network recovery and parsing JSON telemetry.
 
 ### 📦 Warehouse Inventory System
-
 A specialized inventory system built for a sugar manufacturing environment.
+- Automated daily stock reconciliation and tracked material disbursements.
+- Designed robust database schemas handling high-volume daily inventory movements, ensuring 100% data accuracy.
 
-The system handles:
-
-* Daily stock reconciliation
-* Material movement tracking
-* Outbound quantity monitoring
-* High-volume inventory transactions
-* Database structures designed around accurate stock tracking
-
-The goal was simple: keep inventory numbers correct while dealing with a large amount of daily movement.
-
----
-
-## Professional Experience
-
-### Software Engineer / Backend Developer
-
-I've worked across freelance and professional environments, building Laravel applications, APIs, integrations, and internal systems.
-
-#### Freelance — Full-Stack Developer
-
-`Mar 2025 – Present`
-
-* Built custom backend solutions around real business requirements.
-* Worked on performance bottlenecks and reduced query execution time.
-* Integrated the **Daftara Accounting API** into a B2B workflow.
-* Improved invoicing processes and reduced manual data-entry errors.
-* Managed development and deployment pipelines.
-* Used caching and clean Laravel architecture to keep systems reliable.
-
-#### e-RAMO for Digital Solutions — Junior Backend Developer
-
-`Jul 2026 – Aug 2026`
-
-* Developed backend features and REST APIs using Laravel.
-* Implemented business workflows and database transactions.
-* Worked on error handling and reliability.
-* Followed team-based Git workflows and clean-code practices.
-
-#### Createivo — Full-Stack Intern
-
-`Feb 2025 – May 2025`
-
-* Improved SQL queries and database indexing.
-* Worked on backend performance optimization.
-* Took part in **20+ deployments** using Git and Linux-based workflows.
+### 🖼️ microFilm-tools
+- Integrated a Go local server backend with `vipsthumbnail` image processing binaries and a JavaScript frontend to streamline visual grid analysis and media handling.
 
 ---
 
 ## A Few Numbers
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Students_per_Tenant-10K%2B-0284c7?style=flat-square" alt="10K+ Students" />
 <img src="https://img.shields.io/badge/Deployments-20%2B-16a34a?style=flat-square" alt="20+ Deployments" />
 <img src="https://img.shields.io/badge/Response_Time-25%25_Faster-ea580c?style=flat-square" alt="25% Faster Response" />
 <img src="https://img.shields.io/badge/System_Uptime-99.9%25-059669?style=flat-square" alt="99.9% Uptime" />
-
 </p>
 
 ---
@@ -212,22 +125,8 @@ I've worked across freelance and professional environments, building Laravel app
 
 🎓 **Bachelor's Degree in Business Information Systems (BIS)**
 Higher Institute for Commercial Sciences — El-Mahalla El-Kobra
-`2023 – Expected 2027`
+*Nov 2023 – Expected May 2027*
 
-My studies sit somewhere between software engineering and business, which is especially useful when building systems around inventory, finance, and business workflows.
-
-I also completed a **Full-Stack Web Development Diploma** focused on PHP, Laravel, and frontend fundamentals.
-
----
-
-## Currently Interested In
-
-```text
-Backend Architecture
-Database Performance
-Scalable APIs
-Distributed Systems
-Caching
-IoT Backends
-System Design
-DevOps & Deployment
+💻 **Full-Stack Web Development Diploma**
+Createivo
+*Sep 2024 – Feb 2025*
