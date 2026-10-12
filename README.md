@@ -88,7 +88,7 @@ I enjoy working on things like:
 
 ## Things I've Built
 
-### 🎓 MyAcademy — Advanced LMS
+### 📚 MyAcademy — Advanced LMS
 A multi-tenant learning management system designed to handle large amounts of student activity.
 - Architected real-time event infrastructure using **Laravel Reverb and WebSockets**, integrating FCM for instant notifications and a Telegram Bot.
 - Scaled multi-tenant architecture serving **10,000+ students per tenant** with a fail-safe block detection mechanism.
@@ -104,9 +104,6 @@ A backend system for receiving and processing real-time GPS data from multiple I
 A specialized inventory system built for a sugar manufacturing environment.
 - Automated daily stock reconciliation and tracked material disbursements.
 - Designed robust database schemas handling high-volume daily inventory movements, ensuring 100% data accuracy.
-
-### 🖼️ microFilm-tools
-- Integrated a Go local server backend with `vipsthumbnail` image processing binaries and a JavaScript frontend to streamline visual grid analysis and media handling.
 
 ---
 
